@@ -69,7 +69,7 @@ To get started with the Pump.Fun bitpump comment, follow these steps:
 
 5. **Start the Application:**
     ```bash
-    npm start
+    node main.js
     ```
 
 ## Usage
