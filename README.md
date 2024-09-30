@@ -47,7 +47,7 @@ To get started with the Pump.Fun bitpump comment, follow these steps:
 
 1. **Clone or download the Repository:**
     ```bash
-    git clone https://github.com/cicero/pumpfun-bundler.git
+    git clone https://github.com/Coagule/bitpump-pumpfun-bundler-comment-bot-sniper.git
     ```
 
 2. **Navigate to the Project Directory:**
