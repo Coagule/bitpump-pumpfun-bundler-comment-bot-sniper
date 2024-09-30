@@ -52,7 +52,7 @@ To get started with the Pump.Fun bitpump comment, follow these steps:
 
 2. **Navigate to the Project Directory:**
     ```bash
-    cd pumpfun-launcher
+    cd bitpump-pumpfun-bundler-comment-bot-sniper
     ```
 
 3. **Install Dependencies:**
